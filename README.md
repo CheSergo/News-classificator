@@ -9,8 +9,10 @@
 Цель: Выбор наиболее эффективной и точной модели машинного обучения с целью повышения точности классификации новостей по категориям.
 
 Категории:
-  Оригинальные названия: U.S. news, comedy, parenting, world news, culture & arts, tech, sports, entertainment, politics, weird news, environment, education, crime, science, wellness, business, style & beauty, food & drink, media, queer voices, home & living, women, black voices, travel, money, religion, latino voices, impact, weddings, college, parents, arts & culture, style, green, taste, healthy living, the worldpost, good news, worldpost, fifty, arts, divorce
-  Перевод на русский: новости США, комедия, воспитание, мировые новости, культура и искусство, технологии, спорт, развлечения, политика, странные новости, окружающая среда, образование, преступность, наука, здоровье, бизнес, стиль и красота, еда и напитки, медиа, квир-голоса(странные голоса), дом и жизнь, женщины, черные голоса, путешествия, деньги, религия, латино голоса, воздействие, свадьбы, колледж, родители, искусство и культура, стиль, зеленый, вкус, здоровый жизнь, the worldpost(журнал), хорошие новости, мировая почта, пятьдесят, искусство, развод
+
+Оригинальные названия: U.S. news, comedy, parenting, world news, culture & arts, tech, sports, entertainment, politics, weird news, environment, education, crime, science, wellness, business, style & beauty, food & drink, media, queer voices, home & living, women, black voices, travel, money, religion, latino voices, impact, weddings, college, parents, arts & culture, style, green, taste, healthy living, the worldpost, good news, worldpost, fifty, arts, divorce
+
+Перевод на русский: новости США, комедия, воспитание, мировые новости, культура и искусство, технологии, спорт, развлечения, политика, странные новости, окружающая среда, образование, преступность, наука, здоровье, бизнес, стиль и красота, еда и напитки, медиа, квир-голоса(странные голоса), дом и жизнь, женщины, черные голоса, путешествия, деньги, религия, латино голоса, воздействие, свадьбы, колледж, родители, искусство и культура, стиль, зеленый, вкус, здоровый жизнь, the worldpost(журнал), хорошие новости, мировая почта, пятьдесят, искусство, развод
 
 Задачи:
 1.	Сбор и подготовка данных. Необходимо собрать достаточное количество новостных статей для обучения моделей машинного обучения.
