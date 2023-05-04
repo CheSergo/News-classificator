@@ -1,4 +1,4 @@
-# News_classificator
+# News-classificator
 АГУ
 Дисциплина: "Архитектуры систем ИИ"
 
@@ -24,7 +24,7 @@
   
 Датасет: Категории новостей (News Category Dataset) (https://www.kaggle.com/datasets/rmisra/news-category-dataset)
 
-Проект: https://github.com/CheSergo/News_classificator
+Проект: https://github.com/CheSergo/News-classificator
 
 Целесообразность использования датасета для решения поставленной задачи: 
 1.	Релевантность: выбранный датасет релевантным для задачи классификации новостей по категориям.
